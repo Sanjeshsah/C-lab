@@ -1,2 +1,6 @@
 # C-lab
-All my C code (for college purpose)
+Collection of C programs (for college purpose)
+___
+- Feel free to take the code
+- Feel free to contribute program files via a Pull Request
+- Enjoy
