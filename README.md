@@ -1,4 +1,4 @@
-# C-lab
+# learnc (previously C-lab)
 Collection of C programs (for college purpose)
 ___
 - Feel free to take the code
