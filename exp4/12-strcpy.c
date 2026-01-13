@@ -1,3 +1,4 @@
+// Copy a string (strcpy)
 #include<stdio.h>
 int main(){
   char a[50], b[50];

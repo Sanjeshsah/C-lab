@@ -1,3 +1,4 @@
+// strupr
 #include<stdio.h>
 int main(){
   char a[50];
@@ -6,10 +7,10 @@ int main(){
   scanf("%s", a);
 
   for (i=0;a[i]!='\0';i++) {
-    if (a[i]>=97 && a[i]<= 122) {
-      a[i] -= 32;
+    if (a[i]>=65 && a[i]<= 91) {
+      a[i] += 32;
     }
   }
-  printf("The lowercased string is: %s\n", a);
+  printf("The uppercased string is: %s\n", a);
   return 0;
 }

@@ -1,3 +1,4 @@
+// Uppercase and Lowercase
 #include<stdio.h>
 int main(){
   char a[50];

@@ -1,5 +1,4 @@
-// WAP to sort an array in ascending order
-// Using Selection Sort
+// Selection Sort (ascending order)
 #include <stdio.h>
 int main(){
   int a[50];

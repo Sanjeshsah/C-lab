@@ -1,4 +1,4 @@
-// sum ot 2d matrices C=A+B
+// Sum of diagonals and all elements
 #include<stdio.h>
 int main(){
   int a[20][20], b[20][20];

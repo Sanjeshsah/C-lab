@@ -1,4 +1,4 @@
-// sum ot 2d matrices C=A+B
+// Transpose of a matrix
 #include<stdio.h>
 int main(){
   int a[20][20], b[20][20];

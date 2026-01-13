@@ -1,4 +1,4 @@
-// sum ot 2d matrices C=A+B
+// sum of 2d matrices C=A+B
 #include<stdio.h>
 int main(){
   int a[20][20], b[20][20], c[20][20];

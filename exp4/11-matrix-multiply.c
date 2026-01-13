@@ -1,4 +1,4 @@
-// Currently its only 3x3, needs update
+// 3x3 Matrix multiplication
 #include <stdio.h>
 int main()
  {

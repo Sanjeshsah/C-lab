@@ -1,5 +1,4 @@
-// WAP to prinf=t sum of series
-// 1/1+1/2+1/3+1/4+...+1/n
+// Series sum: 1/1+1/2+1/3+1/4+...+1/n
 #include<stdio.h>
 int main(){
   int n,i;

@@ -1,3 +1,4 @@
+// Check if a number is palindrome
 #include <stdio.h>
 int main(){
   int num,a,rev=0;

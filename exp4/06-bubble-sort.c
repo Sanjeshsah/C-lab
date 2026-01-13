@@ -1,5 +1,4 @@
-// WAP to sort an array in ascending order
-// Using Bubble Sort
+// Bubble sort (ascending order)
 #include <stdio.h>
 int main(){
   int a[50];
